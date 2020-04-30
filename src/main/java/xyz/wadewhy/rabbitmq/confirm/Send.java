@@ -46,6 +46,7 @@ public class Send {
             System.err.println("发送成功"+msg);
         }else{
             // 进行消息重发
+
         }*/
         System.out.println("执行waitForConfirms耗费时间: " + (System.currentTimeMillis() - start) + "ms");
         //关闭资源
